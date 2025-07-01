@@ -1,0 +1,5 @@
+{
+  "crypto": ["BTC", "ETH", "DOGE", "PEPE", "SOL"],
+  "stocks": ["NIFTY", "TCS", "RELIANCE", "ADANI", "TESLA"],
+  "commodities": ["GOLD", "SILVER", "OIL", "CRUDE", "BRENT"]
+}
